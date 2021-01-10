@@ -1,0 +1,13 @@
+div{
+    padding: 10%;
+    display: wrap;
+}
+.title{
+    color:red;
+}
+img{
+width: 60px;
+}
+video{
+    margin-top: 10px;
+}
